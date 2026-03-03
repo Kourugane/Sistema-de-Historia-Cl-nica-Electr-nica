@@ -2,7 +2,7 @@
 
 **Programa:** Ingeniería de Sistemas  
 **Asignatura:** Ingeniería De Procesos De Software  
-**Autor:** Fabian Rodriguez  
+**Autor:** Fabian David Rodriguez Barrera 
 **Caso Base:** Sistema de Historia Clínica Electrónica  
 ---
 
@@ -319,3 +319,4 @@ La aplicación estratégica del modelo garantiza trazabilidad, seguridad y mejor
 - IEEE Std 1074 – Standard for Developing Software Life Cycle Processes.
 - Ministerio de Salud y Protección Social de Colombia – Lineamientos de Historia Clínica Electrónica.
 - ISO/IEC 27001 – Sistemas de Gestión de Seguridad de la Información.
+
